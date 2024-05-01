@@ -1,0 +1,21 @@
+<main class="main">
+<img src="imagens/High quality products 1 1.svg" class="logo" alt="">
+<section >
+    <textarea class="text-input"></textarea>
+    <div class="form-group">
+        <img src="" class="img.alerta" alt="">
+        <label for="input-texto">apenas letras</label>
+    </div>
+    <div class="botoes-div">
+        <button class="btn-criptografar">Criptografar</button>
+<button class="btn-descriptografar">Descriptografar</button>
+    </div>
+</section>
+<section>
+    <div id="div-aparece">
+        <textarea class="div-mensage" ></textarea>
+        <button class="btn-copiar">copiar</button>
+    </div>
+</section>
+    </main>
+    <script src="script.js"></script>
